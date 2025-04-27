@@ -16,5 +16,11 @@ _____________
 - Electronics Manufacturing: Soldering
 - Math, Pysics, Buisness
 
+# Contacts 
 
-  
+______
+
+- vihaan.punjabi11@gmail.com
+- linkedin.com/in/vihaan-punjabi
+- vihpunjabi on discord
+- -SolarX- on Scratch
