@@ -1,4 +1,4 @@
-# Vihaan Punjabi
+# All About Me
 
 ______________
 
@@ -8,7 +8,6 @@ ______________
 - My skillsets are Python, HTML, C#, Machine Learning, and Microcontrollers. 
 - Outside of Coding, I am good at math, science and public speaking 😀
 
-#  MORE ABOUT ME
 
 # Accomplishments
 
