@@ -3,7 +3,7 @@
 ______________
 
 - Hello, My Name is Vihaan Punjabi 👋🏽
-- I'm an 8th Grader in the STEM Program.
+- I'm an 9th Grader in the STEM Program @ SCHS
 - I am open to any collaborations 🤝
 
 
